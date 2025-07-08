@@ -2,7 +2,7 @@
 This notebook is the result of 7+ hours of dedicated coding, math, and visualization. It’s more than just implementation — it’s an educational journey built from the ground up.
 
 🚀 Project Summary
-This project explores the Gradient Descent Algorithm in-depth — from basic math to multi-dimensional visualization. It doesn't rely on pre-built libraries for the algorithm, but implements everything from scratch using Python, NumPy, SymPy, and Matplotlib.
+This project explores the Gradient Descent Algorithm in-depth — from basic math to multi-dimensional visualization. It doesn't rely on pre-built libraries for the algorithm, but implements everything from scratch using Python, NumPy, SymPy, and Matplotlib .
 
 This work was inspired by the desire to not just use gradient descent — but to truly understand how it works by building it step-by-step.
 
